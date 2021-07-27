@@ -19,7 +19,7 @@ def get_soup(url):
 for link in get_soup(URL).findAll('a'):
     file_link = link.get('href')
     if FILETYPE in file_link:
-        print('Baixando ', file_link)
+        print('Baixando', file_link)
         with open(link.text, 'wb') as file:
             response = requests.get(URL + file_link)
             file.write(response.content)
