@@ -13,4 +13,4 @@ possamos tomar as melhores descisões!
 ## Módulos
 
 * [Extract, Transform, Load (ETL) dos dados do estudo](https://nbviewer.jupyter.org/github/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS/blob/main/ETL%20de%20dados%20de%20Fundos%20de%20Investimentos%20Brasileiros.ipynb)
-* [Análise exploratória dos dados (em desenvolvimento)](https://nbviewer.jupyter.org/github/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS/blob/main/Analise%20Exploratoria%20dos%20Dados%20%20A%20industria%20dos%20FI%20Brasileiros.ipynb)
+* [Análise exploratória dos dados (em desenvolvimento)](https://nbviewer.jupyter.org/github/joao-aguilera-c/ANALISE-FUNDOS-DE-INVESTIMENTOS/blob/main/Analise%20Exploratoria%20dos%20Dados%20-%20A%20industria%20dos%20FI%20Brasileiros.ipynb)
